@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": "7.55"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung 520+ Ultra",
+      "price": "7000.89"
+    },
+    {
+      "name": "Laptop Lenovo",
+      "price": "2350.00",
+      "id": 4
+    },
+    {
+      "name": "Cabritus Cabra",
+      "price": "100",
+      "id": 5
+    }
+  ]
+}
